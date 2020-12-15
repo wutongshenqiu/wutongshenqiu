@@ -54,7 +54,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 126.2056739752286;
+        stroke-dashoffset: 57.350423710098504;
       }
     }
   
@@ -107,7 +107,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >qiufeng's GitHub Stats</text>
+      >Anurag Hazra's GitHub Stats</text>
     </g>
       </g>
     
@@ -123,13 +123,13 @@
         <circle class="rank-circle" cx="-10" cy="8" r="40" />
         <g class="rank-text">
           <text
-            x="0"
+            x="-4"
             y="0"
             alignment-baseline="central"
             dominant-baseline="central"
             text-anchor="middle"
           >
-            A+
+            S
           </text>
         </g>
       </g>
@@ -144,7 +144,7 @@
         x="170" 
         y="12.5" 
         data-testid="stars"
-      >12</text>
+      >16.7k</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -155,7 +155,7 @@
         x="170" 
         y="12.5" 
         data-testid="commits"
-      >211</text>
+      >952</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -166,7 +166,7 @@
         x="170" 
         y="12.5" 
         data-testid="prs"
-      >2</text>
+      >381</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -177,7 +177,7 @@
         x="170" 
         y="12.5" 
         data-testid="issues"
-      >36</text>
+      >111</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -188,7 +188,7 @@
         x="170" 
         y="12.5" 
         data-testid="contribs"
-      >7</text>
+      >55</text>
     </g>
   </g>
     </svg> 
